@@ -6,6 +6,7 @@ This repo covers Team FDVTS_DR's solutions for MICCAI2022 Diabetic Retinopathy A
 We download the dataset from [DRAC2022](https://drac22.grand-challenge.org/Description/). For pre-training, we additionally adopt the [OCTA-25K-IQA-SEG](https://github.com/shanzha09/COIPS) dataset in challenge 2, and the [EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection/) & [DDR](https://github.com/nkicsl/DDR-dataset) datasets in challenge 3.
 
 ## Task 1. segmentation of DR lesions
+Please refer to [challenge1](challenge1) package
 
 
 ## Task 2. image quality assessment

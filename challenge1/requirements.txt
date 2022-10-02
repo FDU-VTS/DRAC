@@ -1,0 +1,9 @@
+torch
+torchvision
+torchmetrics
+tqdm
+segmentation-models-pytorch==0.2.1
+scikit-learn
+opencv-python
+albumentations[imgaug]
+matplotlib

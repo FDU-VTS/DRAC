@@ -28,7 +28,7 @@ python main.py --challenge 3 --model vit --KK 0 [--pretrained True]  [--mixup Tr
 ```
 
 ## Reference
-If you use this code, please cite the following paper [pdf](https://arxiv.org/abs/2210.00515):
+If you use this code, please cite the following paper [**[pdf]**](https://arxiv.org/abs/2210.00515):
 ```
 @article{hou2022deep,
   title={Deep-OCTA: Ensemble Deep Learning Approaches for Diabetic Retinopathy Analysis on OCTA Images},
